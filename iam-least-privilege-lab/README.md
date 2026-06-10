@@ -51,16 +51,3 @@ I understand why attaching policies to groups instead of users actually matters 
 If permissions were attached to individual users, removing or changing access for 50 people would mean 50 manual changes.
 With groups, it's one change.
 
-## Evidence
-
-**Auditor denied S3 access:**
-![Auditor S3 Denied](screenshots/auditor-s3-denied.png)
-
-**Auditor denied IAM access:**
-![Auditor IAM Denied](screenshots/auditor-iam-denied.png)
-
-**Developer S3 bucket created successfully:**
-![Developer S3 Success](screenshots/developer-s3-success.png)
-
-**Developer denied IAM access:**
-![Developer IAM Denied](screenshots/developer-iam-denied.png)
