@@ -5,6 +5,8 @@ from pure security into DevOps territory — setting up a continuous
 deployment pipeline so every code push to GitHub automatically deploys 
 to a live website on S3. No manual uploads, no console clicking after 
 setup.
+Forked from [Tiny Technical Tutorials](https://github.com/tinytechnicaltutorials/codepipeline-s3-game) 
+— pipeline infrastructure and security scoping added independently.
 
 ## What I Built
 
